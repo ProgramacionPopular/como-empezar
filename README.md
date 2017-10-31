@@ -28,8 +28,8 @@ PHP se puede instalar de muchas maneras, la más fácil es instalando un paquete
 https://www.apachefriends.org/xampp-files/7.1.10/xampp-win32-7.1.10-0-VC14-installer.exe
 
 
-## 2. Conceptos básicos para MEMORIZAR (sí, no hay que olvidarselos JAMÁS, es como saberse el alfabeto)
-
+## 2. Conceptos básicos para MEMORIZAR
+Es importante repasarlos en caso que se olvide, es como saberse el alfabeto
 
 ### TERMINAL
 Es una interfaz de usuario de nuestro sistema (Windows, ponele) permite llamar programas (es decir, escribir comandos)
