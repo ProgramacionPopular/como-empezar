@@ -34,8 +34,7 @@ https://www.apachefriends.org/xampp-files/7.1.10/xampp-win32-7.1.10-0-VC14-insta
 ### TERMINAL
 Es una interfaz de usuario de nuestro sistema (Windows, ponele) permite llamar programas (es decir, escribir comandos)
 
-Lista de programas accesibles desde la terminal (**CMDER**)
-=================
+Lista de programas accesibles desde la terminal (**CMDER**):
 - [mkdir](#mkdir)
 - [cd](#cd)
 - [ls](#ls)
