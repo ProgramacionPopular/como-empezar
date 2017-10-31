@@ -20,6 +20,14 @@ Es importante mentalizarte esto: **UN COMANDO ES UN PROGRAMA**, y cuando usamos 
 
 ### Programas ya instalados que vas a usar (MUCHO)
 
+Lista de programas accesibles desde la terminal (**CMDER**)
+=================
+[mkdir](#mkdir)
+[cd](#cd)
+[ls](#ls)
+[pwd](#pwd)
+[php](#php)
+
 #### mkdir
 Crea una carpeta con el nombre que le pongamos.
 
@@ -41,3 +49,12 @@ Si lo ponemos asi tal cual, muestra archivos y carpetas del **working directory*
 
 #### pwd
 Nos dice en que carpeta estamos parados (el **working directory** )
+
+#### php
+Permite ejecutar programas hechos con php (y que tengan el nombre terminando en .php)
+
+Ejemplo:
+```
+php miprogramita.php
+php subcarpeta/mi_otro_programita.php
+```
