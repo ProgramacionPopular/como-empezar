@@ -23,7 +23,7 @@ Vamos a usar SublimeText, se puede bajar de acá:
 
 El código que vamos a escribir en un principio va a ser en un lenguaje llamado **PHP**, por lo que precisamos tener instalado un programa (como sucede muchas veces, se llama igual que el lenguaje) **php** (asi con minúscula) que permite hacer andar los programas que vamos a escribir.
 
-PHP se puede instalar de muchas maneras, la más fácil es instalando un paquete de programas llamado XAMPP que incluye muchos otros programas que vamos a usar después (es como cuando instalás el Office, vos querés solo el Word pero te clavan el Excel, el PowerPoint y otros que no vas a usar, esto es igual, XAMPP es como un Office pero para programar cosas para la web, trae PHP, Base de Datos, etc):
+PHP se puede instalar de muchas maneras, la más fácil es instalando un paquete de programas llamado XAMPP que incluye muchos otros programas que vamos a usar después (es como cuando instalás el Office, vos querés solo el Word pero te clavan el Excel, el PowerPoint y otros que no vas a usar, esto es igual, XAMPP es un paquete de programas (como lo es el Office, pero de programas para programación web, trae PHP, Base de Datos MySQL, etc):
 
 https://www.apachefriends.org/xampp-files/7.1.10/xampp-win32-7.1.10-0-VC14-installer.exe
 
