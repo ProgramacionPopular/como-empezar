@@ -28,7 +28,7 @@ PHP se puede instalar de muchas maneras, la más fácil es instalando un paquete
 https://www.apachefriends.org/xampp-files/7.1.10/xampp-win32-7.1.10-0-VC14-installer.exe
 
 
-## 2. Conceptos básicos para memorizar (sí, MEMORIZAR, no hay que olvidarselos ni en pedo)
+## 2. Conceptos básicos para MEMORIZAR (sí, no hay que olvidarselos JAMÁS, es como saberse el alfabeto)
 
 
 ### TERMINAL
