@@ -2,6 +2,7 @@
 
 Para empezar a programar lo único que precisás es una computadora, nada mas, no importa ni el Windows que tenés, lo podés hacer en cualquier computadora que funcione y luego ir siguiendo la tabla de contenidos de acá más abajo.
 
+
 ## 1. Instalando programas necesarios
 
 Para programar necesitamos programas que nos ayuden, el más básico se llama **TERMINAL**, una terminal nos permite escribir comandos que nos facilitan y nos permiten la tarea de programar.
@@ -12,7 +13,7 @@ Se puede bajar de acá:
 [https://github.com/cmderdev/cmder/releases/download/v1.3.3/cmder.zip]
 
 
-## 2. Aprendiendo a tirar comandos
+## 2. Aprendiendo a tirar comandos
 
 Para tirar comandos lo primero que hay que hacer es abrir una terminal, cuando abrimos **CMDER** estamos abriendo una terminal.
 
