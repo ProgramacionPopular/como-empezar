@@ -30,18 +30,21 @@ https://www.apachefriends.org/xampp-files/7.1.10/xampp-win32-7.1.10-0-VC14-insta
 
 ## 2. Conceptos básicos para memorizar (sí, MEMORIZAR, no hay que olvidarselos ni en pedo)
 
+
 ### TERMINAL
 Es una interfaz de usuario de nuestro sistema (Windows, ponele) permite llamar programas (es decir, escribir comandos)
 
 Lista de programas accesibles desde la terminal (**CMDER**)
 =================
-[mkdir](#mkdir)
-[cd](#cd)
-[ls](#ls)
-[pwd](#pwd)
-[php](#php)
+- [mkdir](#mkdir)
+- [cd](#cd)
+- [ls](#ls)
+- [pwd](#pwd)
+- [php](#php)
+
 
 ### WORKING DIRECTORY
+
 Es la carpeta donde estamos parados, es como cuando abris el "Equipo" o "Documentos" o cualquier carpeta en Windows, si le das crear "Nueva Carpeta" o querés borrar algo, vas a ver que TODO se hace contra la carpeta que tenés abierta en el explorador.
 
 Con la terminal es IGUAL, uno tiene que en lugar de ver, "moverse" (con el comando **cd**) hasta pararse en la carpeta sobre la que quiera hacer cosas o ejecutar programas.
@@ -56,18 +59,24 @@ Con la terminal es IGUAL, uno tiene que en lugar de ver, "moverse" (con el coman
 ## 3. Qué diferencia hay entre un programa y un comando
 Rara vez uno llama un programa solo poniendo su nombre, en general le agregamos varias opciones, ese pedacito de texto que es el nombre del programa más sus opciones es lo que llamamos COMANDO:
 
-Ejemplo 1: mkdir es un programa para crear una carpeta, pero para llamarlo SIEMPRE requiere que le digamos el nombre de la carpeta
+Ejemplo 1
+---
+mkdir es un programa para crear una carpeta, pero para llamarlo SIEMPRE requiere que le digamos el nombre de la carpeta
 ```
 mkdir mi_carpeta_nueva
 ```
 
-Ejemplo 2: casi todos los programas aceptan que se los llame con un "-h" despues de su nombre como opción para mostrar la ayuda:
+Ejemplo 2
+---
+Casi todos los programas aceptan que se los llame con un "-h" despues de su nombre como opción para mostrar la ayuda:
 ```
 mkdir -h
 ls -h
 ```
 
-Ejemplo 3: ver la versión de PHP:
+Ejemplo 3
+---
+Ver la versión de PHP:
 ```
 php -v
 ```
