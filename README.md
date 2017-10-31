@@ -20,7 +20,7 @@ Es importante mentalizarte esto: **UN COMANDO ES UN PROGRAMA**, y cuando usamos 
 
 ### Programas ya instalados que vas a usar (MUCHO)
 
-** mkdir **
+#### mkdir
 Crea una carpeta con el nombre que le pongamos.
 
 Ejemplo:
@@ -30,14 +30,14 @@ mkdir ejemplo1
 
 Va a crear una carpeta llamada ejemplo1 en el working directory, podes verificar que fue creada tirando el comando **ls**.
 
-** cd **
+#### cd
 Permite **CAMBIAR EL WORKING DIRECTORY**, es decir, abriste la terminal y querés moverte a una carpeta que recien creaste o que ya existe llamada "ejemplo1":
 ```
 cd ejemplo1
 ```
 
-** ls **
+#### ls
 Si lo ponemos asi tal cual, muestra archivos y carpetas del **working directory**
 
-** pwd **
+#### pwd
 Nos dice en que carpeta estamos parados (el **working directory** )
